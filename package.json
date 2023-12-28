@@ -1,0 +1,16 @@
+{
+    "name": "00_leetcode",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Lorenzo Benevento",
+    "license": "MIT",
+    "type": "module",
+    "devDependencies": {
+        "vitest": "^1.1.0",
+        "@types/node": "^20.10.5",
+        "typescript": "^5.3.3"
+    },
+    "scripts": {
+        "dev": "tsc && node ./index.js"
+    }
+}
